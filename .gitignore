@@ -58,3 +58,4 @@ Procfile
 # Тесты
 htmlcov/
 .tox/
+Test_526/
